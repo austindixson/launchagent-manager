@@ -6,7 +6,7 @@
   "description": "Manages macOS LaunchAgents: lists and classifies plists as OpenClaw or other, prunes non-OpenClaw agents, analyzes openclaw.json gateway configuration (port, auth, token sync), verifies gateway LaunchAgent is loaded and running, and can auto-fix by loading plists and running gateway-guard ensure.",
   "author": "OpenClaw",
   "license": "MIT",
-  "homepage": "https://github.com/RuneweaverStudios/launchagent-manager",
+  "homepage": "https://github.com/austindixson/launchagent-manager",
   "tags": [
     "launchd",
     "launchagents",
