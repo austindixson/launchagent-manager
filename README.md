@@ -14,7 +14,7 @@ Manages macOS LaunchAgents for OpenClaw: lists, classifies, prunes non-OpenClaw 
 
 ```bash
 clawhub install launchagent-manager
-# or: git clone https://github.com/RuneweaverStudios/launchagent-manager.git workspace/skills/launchagent-manager
+# or: git clone https://github.com/austindixson/launchagent-manager.git workspace/skills/launchagent-manager
 
 # List all LaunchAgents
 python3 scripts/launchagent_manager.py --list
